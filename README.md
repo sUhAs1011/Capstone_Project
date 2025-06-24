@@ -9,6 +9,11 @@ Modular Design: Seamlessly integrating with existing infrastructures. The system
 ![image](https://github.com/user-attachments/assets/e5879d69-a0e1-467d-b2f2-ecf7c79e3f6c)
 
 
+### Project Workflow
+![image](https://github.com/user-attachments/assets/a3faf2f2-49f0-4e64-b0f6-70d5ea7a5808)
+
+
+
 ### Team Members
 - Mohit Prasad Singh (PES2UG22CS320)
 - Shreyas S (PES2UG22CS540)
