@@ -5,6 +5,10 @@ AI-Powered Anomaly Detection: Identifying timestamp and frame inconsistencies in
 Real-Time Automated Response: Alerting admins, isolating compromised devices, and blocking threats.
 Modular Design: Seamlessly integrating with existing infrastructures. The system undergoes vulnerability assessments, machine learning model training, and rigorous testing to ensure effectiveness, scalability, and ease of use. Expected outcomes include improved replay attack detection, enhanced CCTV security, and greater trust in surveillance technologies, making this a significant step towards adaptive, secure surveillance solutions.
 
+### High Level Design
+![image](https://github.com/user-attachments/assets/e5879d69-a0e1-467d-b2f2-ecf7c79e3f6c)
+
+
 ### Team Members
 - Mohit Prasad Singh (PES2UG22CS320)
 - Shreyas S (PES2UG22CS540)
