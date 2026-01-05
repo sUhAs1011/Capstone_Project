@@ -1,6 +1,3 @@
-# htm_train.py
-# Train SP+TM on converted HTM SDR frames from a folder of .npz files, then save models + metadata.
-
 from __future__ import annotations
 import argparse, json, sys, platform, os, pathlib
 import numpy as np
@@ -199,4 +196,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
