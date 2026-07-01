@@ -13,6 +13,9 @@ This project was developed as our **Final Year Capstone Project** at **PES Unive
 **Paper Title:**  
 *Detection and Mitigation of Replay Attacks in CCTV Systems*
 
+🔗 **IEEE Xplore Paper:**  
+https://ieeexplore.ieee.org/document/11511006
+
 **Research Areas**
 
 - Artificial Intelligence
@@ -160,7 +163,7 @@ The comparison study shows that the proposed approach achieves competitive perfo
 
 ### Faculty Guide
 
-- **Dr. Manish**
+- **Dr. Manju**
 - PES University, Bengaluru
 
 ---
@@ -175,10 +178,6 @@ This project was developed as our **Bachelor of Technology Capstone Project** at
 
 If you find this work useful, please consider citing our paper published in **IEEE Xplore**.
 
----
+📄 **Paper:** *Detection and Mitigation of Replay Attacks in CCTV Systems*
 
-# ⭐ Acknowledgements
-
-We sincerely thank **PES University** and our faculty mentor for their continuous guidance and support throughout this research project.
-
-If you found this project interesting, consider giving the repository a ⭐ on GitHub!
+🔗 https://ieeexplore.ieee.org/document/11511006
