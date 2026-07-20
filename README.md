@@ -181,3 +181,5 @@ If you find this work useful, please consider citing our paper published in **IE
 📄 **Paper:** *Detection and Mitigation of Replay Attacks in CCTV Systems*
 
 🔗 https://ieeexplore.ieee.org/document/11511006
+
+<img width="1600" height="1131" alt="2323" src="https://github.com/user-attachments/assets/2b108481-5ce3-4910-8cc9-5d7a67f07b26" />
